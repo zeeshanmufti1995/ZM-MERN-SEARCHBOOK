@@ -5,7 +5,6 @@ MERN Challenge: Book Search Engine
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshot](#screenshot)
 - [Deployed](#deployed)
 - [Contributors](#contributors)
 - [Questions](#questions)
